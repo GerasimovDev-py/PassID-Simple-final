@@ -1,8 +1,13 @@
 # PassID
 
-Система учёта пропусков для контрольно-пропускных пунктов предприятия. Заменяет бумажный журнал: ответственное лицо оформляет заявку на пропуск, сотрудник охраны подтверждает вход и отмечает уход посетителя. Система ведёт единый журнал посещений и контроль доступа по КПП.
+Система учёта пропусков для контрольно-пропускных пунктов предприятия. Заменяет бумажный журнал: ответственное лицо оформляет заявку на пропуск, сотрудник охраны подтверждает вход и отмечает уход посетителя.
 
-Django Python Bootstrap PostgreSQL License
+[![Python](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/)
+[![Django](https://img.shields.io/badge/Django-5.1.1-092E20.svg)](https://www.djangoproject.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15+-4169E1.svg)](https://www.postgresql.org/)
+[![Supabase](https://img.shields.io/badge/Supabase-cloud-3ECF8E.svg)](https://supabase.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.3-7952B3.svg)](https://getbootstrap.com/)
+[![License](https://img.shields.io/badge/license-Academic-lightgrey.svg)](#лицензия)
 
 ---
 
@@ -415,11 +420,10 @@ Roadmap
 □ Аутентификация JWT для API
 □ Отчёты (за месяц, за период)
 □ Уведомления (email / Telegram)
-Соавторы
-Герасимов Владислав — GerasimovDev-py
 
-Лицензия
-Автор
-Герасимов Владислав
+Авторы
+- **Gerasimov Vladislav** — [GerasimovDev-py](https://github.com/GerasimovDev-py)
 
-GitHub: GerasimovDev-py
+ Лицензия
+
+MIT License. См. [LICENSE](LICENSE).
